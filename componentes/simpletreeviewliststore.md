@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/treeview_simple_liststore.png)
+![image-title-here]({{ site.url }}/assets/img/treeview_simple_liststore.png)
 
 ```vala
 

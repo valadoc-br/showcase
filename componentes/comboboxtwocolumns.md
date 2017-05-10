@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/combobox_multicolumn.png)
+![image-title-here]({{ site.url }}/assets/img/combobox_multicolumn.png)
 
 ```vala
 

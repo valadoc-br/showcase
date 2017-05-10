@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/messagedialog.png)
+![image-title-here]({{ site.url }}/assets/img/messagedialog.png)
 
 ```vala
 

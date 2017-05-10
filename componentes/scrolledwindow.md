@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/scrolledwindow.png)
+![image-title-here]({{ site.url }}/assets/img/scrolledwindow.png)
 
 ```vala
 

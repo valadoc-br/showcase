@@ -5,7 +5,7 @@ layout: default
 # TextView widget
 ___
 
-![image-title-here](/assets/img/textview.png)
+![image-title-here]({{ site.url }}/assets/img/textview.png)
 
 ```vala
 

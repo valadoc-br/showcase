@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/image.png)
+![image-title-here]({{ site.url }}/assets/img/image.png)
 
 ```vala
 public class MyWindow : Gtk.ApplicationWindow {

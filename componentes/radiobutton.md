@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/radiobutton.png)
+![image-title-here]({{ site.url }}/assets/img/radiobutton.png)
 
 ```vala
 

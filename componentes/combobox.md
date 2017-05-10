@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/combobox.png)
+![image-title-here]({{ site.url }}/assets/img/combobox.png)
 
 
 Este ComboBox imprime no terminal quando você alterar sua seleção.

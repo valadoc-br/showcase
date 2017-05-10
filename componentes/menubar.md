@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/menubar.png)
+![image-title-here]({{ site.url }}/assets/img/menubar.png)
 
 * A MenuBar created using XML and GtkBuilder.
 * Create a MenuBar using XML

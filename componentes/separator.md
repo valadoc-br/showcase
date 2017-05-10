@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/separator.png)
+![image-title-here]({{ site.url }}/assets/img/separator.png)
 
 ```vala
 /* This is the application. */

@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/spinbutton.png)
+![image-title-here]({{ site.url }}/assets/img/spinbutton.png)
 
 ```vala
 

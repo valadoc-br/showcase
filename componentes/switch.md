@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/switch_on.png) ![image-title-here](/assets/img/switch_off.png)
+![image-title-here]({{ site.url }}/assets/img/switch_on.png) ![image-title-here]({{ site.url }}/assets/img/switch_off.png)
 
 ```vala
 

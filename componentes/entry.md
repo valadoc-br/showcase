@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/entry.png)
+![image-title-here]({{ site.url }}/assets/img/entry.png)
 
 ```vala
 /* A window in the application. */

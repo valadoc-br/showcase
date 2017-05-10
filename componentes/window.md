@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/window.png)
+![image-title-here]({{ site.url }}/assets/img/window.png)
 
 ```vala
 
