@@ -42,7 +42,7 @@ nav {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #403757;
+    background-color: #3892E0;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     color: rgba(255, 255, 255, 0.8);
     display: flex;
@@ -242,6 +242,10 @@ nav .title {
     font-size: 15px;
 }
 
+#icon-menu li a, #icon-menu li a:hover{
+    text-decoration: none;
+}
+
 
 /***********
  * Content *
@@ -425,7 +429,6 @@ footer {
     color: #666;
     padding: 16px;
     margin-top: 5%;
-    text-align: right;
 }
 
 .main_source {
