@@ -6,7 +6,7 @@ layout: default
 
 ___
 
-![image-title-here](/assets/img/aboutdialog_GMenu.png)
+![image-title-here]({{ site.url }}/assets/img/aboutdialog_GMenu.png)
 
 <hr>
 
