@@ -1,0 +1,4 @@
+---
+layout: default
+search: true
+---
