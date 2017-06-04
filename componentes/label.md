@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Label
 ---
-
-# Label
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/label.png)
 

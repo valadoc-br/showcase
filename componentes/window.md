@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Window
 ---
-
-# Window
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/window.png)
 

@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Entry
 ---
-
-# Entry
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/entry.png)
 

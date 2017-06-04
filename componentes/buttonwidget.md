@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Button widget
 ---
-
-# Button widget
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/button.png)
 

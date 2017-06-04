@@ -1,10 +1,6 @@
 ---
-layout: default
+title: MessageDialog
 ---
-
-# MessageDialog
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/messagedialog.png)
 

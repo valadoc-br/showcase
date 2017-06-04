@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Separator
 ---
-
-# Separator
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/separator.png)
 

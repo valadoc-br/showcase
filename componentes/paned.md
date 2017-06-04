@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Paned
 ---
-
-# Paned
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/paned.png)
 

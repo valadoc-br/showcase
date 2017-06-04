@@ -1,10 +1,6 @@
 ---
-layout: default
+title: CheckButton
 ---
-
-# CheckButton
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/checkbutton.png)
 

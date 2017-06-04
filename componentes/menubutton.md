@@ -1,10 +1,6 @@
 ---
-layout: default
+title: MenuButton
 ---
-
-# MenuButton
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/menubutton.png)
 

@@ -1,10 +1,6 @@
 ---
-layout: default
+title: FontChooserWidget
 ---
-
-# FontChooserWidget
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/fontchooserwidget.png)
 

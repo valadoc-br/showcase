@@ -1,10 +1,6 @@
 ---
-layout: default
+title: SpinButton
 ---
-
-# SpinButton
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/spinbutton.png)
 

@@ -1,10 +1,6 @@
 ---
-layout: default
+title: GMenu
 ---
-
-# GMenu
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/gmenuvala.png)
 

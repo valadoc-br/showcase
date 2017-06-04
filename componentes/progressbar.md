@@ -1,10 +1,6 @@
 ---
-layout: default
+title: ProgressBar
 ---
-
-# ProgressBar
-
-___
 
 
 ```vala

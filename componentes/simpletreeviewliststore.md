@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Simple Treeview with ListStore
 ---
-
-# Simple Treeview with ListStore
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/treeview_simple_liststore.png)
 

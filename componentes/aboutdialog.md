@@ -1,10 +1,6 @@
 ---
-layout: default
+title: AboutDialog
 ---
-
-# AboutDialog
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/aboutdialog_GMenu.png)
 

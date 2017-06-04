@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Tooltip
 ---
-
-# Tooltip
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/tooltip.png)
 
@@ -51,7 +47,7 @@ class MyWindow : Gtk.ApplicationWindow {
 
 		/* set the text for the tooltip */
         	tooltip.set_text ("Undo your last action");
-		
+
 		/* set an icon fot the tooltip */
 		tooltip.set_icon_from_stock("gtk-undo", Gtk.IconSize.MENU);
 
@@ -86,13 +82,13 @@ class MyWindow : Gtk.ApplicationWindow {
 		open_button.action_name = "app.open";
 
 		undo_button = new Gtk.ToolButton.from_stock (Gtk.Stock.UNDO);
-	
-		/* For a tooltip to have an image, first we must set_has_tooltip to be 'true' */	
+
+		/* For a tooltip to have an image, first we must set_has_tooltip to be 'true' */
 		(undo_button as Gtk.Widget).set_has_tooltip (true);
 
 		/* Connect the query_tooltip signal to the callback */
 		undo_button.query_tooltip.connect (undo_tooltip_callback);
-	
+
 		undo_button.is_important = true;
 		toolbar.add (undo_button);
 		undo_button.show ();

@@ -1,10 +1,6 @@
 ---
-layout: default
+title: LinkButton
 ---
-
-# LinkButton
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/linkbutton.png)
 

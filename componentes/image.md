@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Image
 ---
-
-# Image
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/image.png)
 

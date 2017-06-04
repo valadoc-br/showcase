@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Image
 ---
-
-# Image
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/menubar.png)
 
@@ -401,7 +397,7 @@ Accelerators
 Accelerators can be explicitly added in the UI definitions. For example, it is common to be able to quit an application by pressing Ctrl+Q or to save a file by pressing Ctrl+S. To add an accelerator to the UI definition, you simply need add an "accel" attribute to the item.
 
 ```xml
-<attribute name="accel">&lt;Primary&gt;q</attribute> 
+<attribute name="accel">&lt;Primary&gt;q</attribute>
 ```
 
 will create the Ctrl+Q sequence when added to the Quit label item. Here, "Primary" refers to the Ctrl key on a PC or the ⌘ key on a Mac.

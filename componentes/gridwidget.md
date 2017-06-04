@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Grid widget
 ---
-
-# Grid widget
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/grid.png)
 

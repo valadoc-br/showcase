@@ -1,10 +1,6 @@
 ---
-layout: default
+title: ColorButton
 ---
-
-# ColorButton
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/colorbutton.png)
 

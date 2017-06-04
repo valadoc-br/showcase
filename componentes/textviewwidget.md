@@ -1,9 +1,6 @@
 ---
-layout: default
+title: TextView widget
 ---
-
-# TextView widget
-___
 
 ![image-title-here]({{ site.url }}/assets/img/textview.png)
 

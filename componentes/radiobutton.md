@@ -1,10 +1,6 @@
 ---
-layout: default
+title: RadioButton
 ---
-
-# RadioButton
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/radiobutton.png)
 

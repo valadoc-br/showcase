@@ -1,10 +1,6 @@
 ---
-layout: default
+title: ScrolledWindow
 ---
-
-# ScrolledWindow
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/scrolledwindow.png)
 

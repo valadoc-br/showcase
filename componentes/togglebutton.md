@@ -1,10 +1,6 @@
 ---
-layout: default
+title: ToggleButton
 ---
-
-# ToggleButton
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/togglebutton.png)
 

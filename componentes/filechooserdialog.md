@@ -1,10 +1,6 @@
 ---
-layout: default
+title: FileChooserDialog
 ---
-
-# FileChooserDialog
-
-___
 
 ### Overview of the example
 

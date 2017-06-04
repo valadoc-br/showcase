@@ -1,10 +1,6 @@
 ---
-layout: default
+title: ComboBox (two columns)
 ---
-
-# ComboBox (two columns)
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/combobox_multicolumn.png)
 
@@ -17,7 +13,7 @@ class MyWindow : Gtk.ApplicationWindow {
 
 	enum Column {
 		FILE,
-		STOCK_ITEM	
+		STOCK_ITEM
 	}
 
 	/* Constructor */
@@ -41,7 +37,7 @@ class MyWindow : Gtk.ApplicationWindow {
 		/* CellRenderers render the data. */
 		Gtk.CellRendererText cell = new Gtk.CellRendererText ();
 		Gtk.CellRendererPixbuf cell_pb = new Gtk.CellRendererPixbuf ();
-		
+
                 /* we pack the cell into the beginning of the combobox, allocating
 		 * no more space than needed;
 		 * first the image, then the text;

@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Dialog
 ---
-
-# Dialog
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/dialog.png)
 

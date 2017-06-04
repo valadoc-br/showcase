@@ -1,10 +1,6 @@
 ---
-layout: default
+title: ComboBox
 ---
-
-# ComboBox
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/combobox.png)
 

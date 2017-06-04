@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Toolbar
 ---
-
-# Toolbar
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/toolbar.png)
 

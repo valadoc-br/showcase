@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Statusbar
 ---
-
-# Statusbar
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/statusbar.png)
 

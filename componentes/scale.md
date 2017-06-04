@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Scale
 ---
-
-# Scale
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/scale.png)
 

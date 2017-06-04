@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Spinner
 ---
-
-# Spinner
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/spinner.png)
 

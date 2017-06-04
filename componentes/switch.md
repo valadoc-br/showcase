@@ -1,10 +1,6 @@
 ---
-layout: default
+title: Switch
 ---
-
-# Switch
-
-___
 
 ![image-title-here]({{ site.url }}/assets/img/switch_on.png) ![image-title-here]({{ site.url }}/assets/img/switch_off.png)
 
