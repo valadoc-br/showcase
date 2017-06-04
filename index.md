@@ -1,8 +1,3 @@
----
-layout: default
-search: true
----
-
 <!-- <img src="{{ site.url }}/assets/img/logo-valadoc-br.png" width="80" height="80" style="border-radius: 5px;" /> -->
 ### O desenvolvimento de seu projeto desktop com **Vala** ainda mais fácil
 ##### Exemplos simples de implementações usado o **GTK3** e **Granite**.
